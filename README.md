@@ -1,2 +1,2 @@
-# secure-dotfiles
+## secure-dotfiles
 mac os secure (and disorganized) dotfiles
